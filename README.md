@@ -195,6 +195,8 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 
 4. Video
  
+ 
+ 
 5. Conclusiones
 
    - En conclusion, dentro del 5to tema revisamos que la corriente es la misma en todos los puntos de un circuito en serie y 
@@ -214,13 +216,4 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
      
 6.Bibliografia 
 
-
-
-
-
-
-
-
-
-
-
+Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava edición) [Libro electrónico]. Pearson Education.
