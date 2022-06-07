@@ -193,7 +193,26 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 
 ![image](https://user-images.githubusercontent.com/105677161/172271750-833dfd8c-0e06-41dc-9373-d35a822cbd3a.png)
 
+4. Video
+ 
+5. Conclusiones
 
+   - En conclusion, dentro del 5to tema revisamos que la corriente es la misma en todos los puntos de un circuito en serie y 
+     la resistencia total en serie es la suma de todos los resistores presentes en el circuito en serie. Ademas la resistencia 
+     total entre dos puntos cualesquiera de un circuito en serie es igual a la suma de todos los resistores conectados entre esos dos puntos.
+     Si todos los resistores presentes en un circuito en serie son de igual valor, la resistencia total es la cantidad de resistores 
+     multiplicada por el valor de resistencia de un resistor. A su vez nos pudimos percatar de que las fuentes de voltaje en serie
+     se suman algebraicamente. Y que la ley del voltaje de Kirchhoff se define como La suma de todas las caídas de voltaje localizadas
+     en una trayectoria cerrada de un circuito es igual al voltaje total de fuente en dicha trayectoria. Mientras que la Ley del voltaje 
+     de Kirchhoff: La suma algebraica de todos los voltajes (tanto de fuente como caídas) localizados en una trayectoria cerrada es cero.
+   - Por otro lado, en el tema 6 pudimos notar que los resistores en paralelo se conectan entre dos puntos (nodos) y la combinación en paralelo 
+     tiene más de una trayectoria para la corriente. A su vez la resistencia total en paralelo es menor que el resistor de valor más bajo. Pero 
+     los voltajes a través de todas las ramas de un circuito en paralelo son los mismos. Mientra que las fuentes de corriente en paralelo se 
+     suman algebraicamente. La Ley de las corrientes de Kirchhoff se define como la suma de las corrientes que entran a un nodo (corriente total 
+     de entrada) es igual a las corrientes que salen del nodo (corriente total de salida). Por ultimo logramos determinar que la suma algebraica 
+     de todas las corrientes que entran y salen de un nodo es igual a cero.
+     
+6.Bibliografia 
 
 
 
