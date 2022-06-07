@@ -105,6 +105,8 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
  
  3. EXPLICACION Y RESOLUCION DE EJERCICIOS PROPUESTOS
  
+------------------- EJERCICIOS TEMA 5 -------------------
+
 ![image](https://user-images.githubusercontent.com/105677161/172260271-3c83bf71-fce2-4ea7-8e7e-261093d8dcb1.png)
 
 ![image](https://user-images.githubusercontent.com/105677161/172260408-f48b968a-a7a8-463f-9936-9ef73a7d1d5b.png)
@@ -122,6 +124,64 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 ![image](https://user-images.githubusercontent.com/105677161/172262147-8f1992a8-557f-4309-90ab-238ee3279c86.png)
 
 ![image](https://user-images.githubusercontent.com/105677161/172262341-9e5c6b07-4e9a-48d4-b3eb-906c11842c65.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172262708-bb358350-ce88-4913-b3d5-aa00c431a8ff.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172262798-6126190c-902f-49e4-81cf-bf4da02f46d7.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263085-738254bb-eea9-438a-b58f-4930b52cfd30.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263179-1e7d28d9-5f7e-4f65-95d9-601d5512fcb1.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263280-4d7ea043-4f3e-4e73-8a33-c1481c7833b9.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263374-d4fd8b18-aceb-409b-b18b-e52c1a5eac94.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263550-e248533d-a3a9-47d3-a687-0ea98c395e9c.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263639-564a966d-1155-4ca5-ad84-4b1265a40538.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263773-30f8ac43-d985-494f-b9bb-89e3923cbfcb.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172263877-8365dacb-52cc-4162-ad70-ab78b3aff7bf.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172264003-025781de-7851-4c4b-90af-d628d95bfa6d.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172264103-a2244f25-ba61-48b5-9575-c766ce0c9dc0.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172264171-c369c2d7-5cdb-4911-8a1a-f408b0072677.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172264288-7c84bb9b-3fc1-4077-ad5e-d8201deea7fe.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172264401-5c22c74a-9c96-458c-9806-71fb7563f5ea.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172265879-c985be30-f909-4d34-a58c-b4c1ac74c0b3.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172265991-4dbf8bfa-01f4-43e1-b7e3-49f4032216d1.png)
+
+------------------- EJERCICIOS TEMA 6 -------------------
+
+![image](https://user-images.githubusercontent.com/105677161/172266141-565dc9ef-0468-46a7-967a-0d32228b9619.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172266861-a5f9d626-ef35-4be4-880a-90adc2125919.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172267358-d9345f5c-deff-4188-af32-4ed7090a6d6c.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172267448-643a01bd-30eb-4686-8243-aad376f683d7.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172267555-25024ab6-3b8b-47eb-a126-cd0a934dffc3.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172267746-fe60f4f1-dba1-4884-a6f7-47080a74653f.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172267829-fed35840-197c-4583-8ced-2e1f7296e401.png)
+
+
+
+
+
+
+
+
 
 
 
