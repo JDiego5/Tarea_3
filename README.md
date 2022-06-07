@@ -175,6 +175,23 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 
 ![image](https://user-images.githubusercontent.com/105677161/172267829-fed35840-197c-4583-8ced-2e1f7296e401.png)
 
+![image](https://user-images.githubusercontent.com/105677161/172269114-806cad26-082b-44c2-b996-2e299e470e67.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172269279-0cfeca26-3fd9-4da6-a1a7-382f484b9ba6.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172269396-c067f5e3-9780-4664-bf22-8e28fe0c3aa5.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172269469-007703ae-7fb8-44df-bf0f-e59911d0e138.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172271151-21004115-5c72-4d7d-a6b5-1eb3da5abc45.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172271296-4e8ec575-85b4-4e88-9851-d1634c089be4.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172271543-d3425fbf-024e-47d4-8b84-18a6f705657b.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172271669-82c03607-d847-452f-9929-1ee8889c801d.png)
+
+![image](https://user-images.githubusercontent.com/105677161/172271750-833dfd8c-0e06-41dc-9373-d35a822cbd3a.png)
 
 
 
