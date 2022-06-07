@@ -195,7 +195,11 @@ E)	Determinar las formulas de potencia y energía, con los conceptos de voltaje,
 
 4. Video
  
+ Aqui esta el video de youtube de la explicacion de ejercicios.
  
+ https://www.youtube.com/watch?v=Ni37_i656RI
+ 
+ https://www.youtube.com/watch?v=aKZHJuJTP-k
  
 5. Conclusiones
 
